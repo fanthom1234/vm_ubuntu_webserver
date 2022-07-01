@@ -10,6 +10,6 @@ This automation can make a running webserver with given HTML every time I start 
 
 What's more?
 1. I struggle a bit with DHCP, I tried to create a private network using DHCP, but it keeps crashing with an existing network. 
-Now that I tried to create a private network using static IP, it works!! DHCP is there!! I guess it's the default, or some hidden setting underhood allows this. 
+Now that I tried to create a private network using static IP, it works!! But it's just a static IP.
 Underneath is the source that I found to learn more about DHCP.(not the DHCP config clash thing)🥧
 - https://www.youtube.com/watch?v=xR0p_yU9Cdo&t=10s
