@@ -6,7 +6,7 @@ Got to use VirtualBox and Vagrant to create a webserver inside a virtual machine
 I use vagrant to automate updates, download Apache, config, and move content from the shared folder within the virtual machine to the apache HTML folder. 
 After downloading Apache, apt(package manager) create and starts service for Apache. HTTP 200!!!!! 🍇
 
-This automation can make a running webserver with given HTML every time I start a new VM. 👨‍💻🧑‍🎨👨🏼‍🏭
+This vagrant provisioning can make a running webserver with given HTML every time I start a new VM! 👨‍💻🧑‍🎨👨🏼‍🏭
 
 What's more?
 1. I struggle a bit with DHCP, I tried to create a private network using DHCP, but it keeps crashing with an existing network. 
